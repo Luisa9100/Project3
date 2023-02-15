@@ -139,7 +139,7 @@ export default function () {
             <NavLink
               className="py-4 px-2 text-gray-400   hover:text-orange-500 font-semibold"
               onClick={() => toggler()}
-              to="/Women"
+              to="/books"
             >
               Books
             </NavLink>
